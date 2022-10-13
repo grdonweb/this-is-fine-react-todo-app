@@ -7,7 +7,7 @@
 - ✅ Rapidapi
 - ✅ Template String Converter
 - ✅ Todotree
-- ⬜ JsonCrack
+- ✅ JsonCrack
 
 ## TODO APP Stack: 
 
